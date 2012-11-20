@@ -1,3 +1,7 @@
+/.settings/org.scala-ide.sdt.core.prefs
+/.project
+/.classpath
+/.cache
 logs
 project/project
 project/target
@@ -8,3 +12,10 @@ dist
 .tags
 *.iml
 .idea
+target
+.target
+target/*
+.target/*
+bin
+bin/*
+
